@@ -1,0 +1,53 @@
+.title{
+    background: url(../images/main-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.sub-text{
+    color: #f0ffff;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #f0ffff;
+    letter-spacing: 3px;
+    
+h2{
+    color: #f0ffff; 
+}
+p{
+    color: #f0ffff; 
+}
+
+}
+.the-games{
+    background: url(../images/the-games-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.features{
+    background: url(../images/features.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.requirements{
+    background: url(../images/requirements.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.top-scores{
+    background: url(../images/top-score-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.newsletter{
+    background: url(../images/main-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
